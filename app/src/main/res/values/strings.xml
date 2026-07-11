@@ -10,12 +10,6 @@
     <string name="omnijaws_app_name" translatable="false">OmniJaws</string>
     <string name="omnijaws_activity_title">Weather</string>
 
-    <!-- Weather Providers -->
-    <string name="omnijaws_provider_openweathermap" translatable="false">OpenWeatherMap</string>
-    <string name="omnijaws_provider_metnorway" translatable="false">MET Norway</string>
-    <string name="omnijaws_provider_pirate_weather" translatable="false">Pirate Weather</string>
-    <string name="omnijaws_provider_openmeteo" translatable="false">Open-Meteo</string>
-
     <!-- Settings -->
     <string name="omnijaws_weather_config_title">Weather Settings</string>
     <string name="omnijaws_category_general">General</string>
@@ -136,4 +130,13 @@
     <string name="omnijaws_weather_widget">Weather Widget</string>
     <string name="omnijaws_weather_widget_desc">Displays current weather information and forecasts.</string>
 
+    <!-- Weather Providers -->
+    <string name="omnijaws_provider_openweathermap" translatable="false">OpenWeatherMap</string>
+    <string name="omnijaws_provider_metnorway" translatable="false">MET Norway</string>
+    <string name="omnijaws_provider_pirate_weather" translatable="false">Pirate Weather</string>
+    <string name="omnijaws_provider_openmeteo" translatable="false">Open-Meteo</string>
+    <string name="omnijaws_provider_visualcrossing" translatable="false">Visual Crossing</string>
+
+    <!-- Visual Crossing API key preference title -->
+    <string name="omnijaws_visual_crossing_key" translatable="false">Visual Crossing API key</string>
 </resources>
